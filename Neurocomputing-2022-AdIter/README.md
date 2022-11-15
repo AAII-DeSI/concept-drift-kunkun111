@@ -1,1 +1,1 @@
-Source code for the paper "Elastic Gradient Boosting Decision Tree with Adaptive Iterations for Concept Drift Adaptation".
+### Source code of the paper "Kun Wang, Jie Lu, Anjin Liu, Yiliao Song, Guangquan Zhang, Li Xiong. Elastic gradient boosting decision tree with adaptive iterations for concept drift adaptation[J]. Neurocomputing, 2022, 491, 288-304."
