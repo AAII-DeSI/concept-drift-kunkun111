@@ -1,1 +1,1 @@
-# Source code of the paper "Kun Wang, Anjin Liu, Jie Lu, Guangquan Zhang, Li Xiong. An elastic gradient boosting decision tree for concept drift learning[C]. The 33rd Australasian Conference on Artificial Intelligence, Canberra, Australia, Nov.29-30, 2020, 420-432."
+### Source code of the paper "Kun Wang, Anjin Liu, Jie Lu, Guangquan Zhang, Li Xiong. An elastic gradient boosting decision tree for concept drift learning[C]. The 33rd Australasian Conference on Artificial Intelligence, Canberra, Australia, Nov.29-30, 2020, 420-432."
