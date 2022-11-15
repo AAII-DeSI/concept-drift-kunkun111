@@ -4,9 +4,9 @@
 Run AuAI2020.ipynb
 ```
 ### Datasets
-```
-The datasets can be found [here](https://github.com/kunkun111/AJCAI-eGBDT).
-```
+
+The datasets can be found [here] (https://github.com/kunkun111/AJCAI-eGBDT).
+
 ### Citation
 ```
 @inproceedings{wang2020elastic,
