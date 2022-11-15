@@ -1,1 +1,1 @@
-###### Code for the paper 'Evolving Gradient Boost: A Pruning Scheme Based on Loss Improvement Ratio for Learning under Concept Drift'.
+### Source code of the paper "Kun Wang, Jie Lu, Anjin Liu, Guangquan Zhang, Li Xiong. Evolving gradient boost: A pruning scheme based on loss improvement ratio for learning under concept drift[J]. IEEE Transactions on Cybernetics, DOI:10.1109/TCYB.2021.3109796."
